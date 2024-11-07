@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t lakzmi/devops-build:latest .
+docker build -t lakzmi/dev:dev1.0
